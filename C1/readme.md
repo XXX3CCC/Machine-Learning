@@ -1,3 +1,5 @@
+## [Assignment1 description](https://github.com/XXX3CCC/Machine-Learning/blob/main/C1/Coding%20assignment%201.pdf)
+
 ## Problem 1 [50%] 
 
 In this coding problem, we will implement the closed-form solution to linear regression. The student will use matrix-vector representations for data representation and get some experience with data visualization. In addition, the student will explore the phenomenon of “regression to the mean.” 
