@@ -8,7 +8,7 @@ Machine learning teaches a machine to learn from previous experience and makes a
 By the end of this course, the student will understand the foundations of machine learning and gain experience in machine learning applications. 
 
 
-## Tentative topic list:
+## Topic list:
 Linear regression
 
 · Mean square error (as heuristics)
