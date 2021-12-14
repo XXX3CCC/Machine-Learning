@@ -1,1 +1,1 @@
-## [Assignment2 description](https://github.com/XXX3CCC/Machine-Learning/blob/main/C1/Coding%20assignment%201.pdf)
+## [Assignment2 description](https://github.com/XXX3CCC/Machine-Learning/blob/main/C2/Coding%20Assignment%202.pdf)
